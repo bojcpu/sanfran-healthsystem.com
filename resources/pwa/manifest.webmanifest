@@ -1,0 +1,39 @@
+{
+    "id": "./",
+    "name": "SanFran HealthSys",
+    "short_name": "SanFran Health",
+    "description": "Health news and information for Barangay San Francisco, Talibon, Bohol.",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#094F29",
+    "theme_color": "#094F29",
+    "orientation": "portrait-primary",
+    "lang": "en",
+    "icons": [
+        {
+            "src": "icons/icon-192-v2.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-512-v2.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-192-maskable-v2.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icon-512-maskable-v2.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
